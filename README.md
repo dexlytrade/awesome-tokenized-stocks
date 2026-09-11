@@ -153,6 +153,7 @@ RWA perps and synthetics rely on high-quality equity/commodity price feeds.
 - [**rwa.xyz**](https://www.rwa.xyz/) — The reference dashboard for tokenized RWAs (treasuries, credit, stocks).
 - [**Dune — RWA dashboards**](https://dune.com/) — Community dashboards for tokenized-asset flows.
 - [**Artemis**](https://artemis.xyz/) — Cross-chain analytics including RWA sectors.
+- [**Tokenized**](https://tokenized.so/) — Research directory comparing tokenized stocks, stablecoins and commodities by underlying asset, issuer, backing model and network, with links to issuer sources.
 
 ---
 
