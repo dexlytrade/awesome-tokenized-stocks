@@ -95,6 +95,7 @@ Self-custodial apps to trade tokenized stocks & RWAs from your phone.
 | **Dexly** | iOS / Android | Hyperliquid | Self-custodial app for perps, spot, **tokenized stocks & commodities**, and prediction markets, with copy trading | 🟢 Live | [dexly.trade](https://dexly.trade/) |
 | **Robinhood (EU)** | iOS / Android | Arbitrum | Tokenized US stocks & pre-IPO for EU users | 🟡 Regional | [robinhood.com](https://robinhood.com/) |
 | **Kraken (xStocks)** | iOS / Android / Web | Solana | Trade xStocks tokenized equities | 🟢 Live | [kraken.com](https://www.kraken.com/) |
+| **CopyHype** | Telegram (iOS / Android / Desktop) | Hyperliquid | Trade stock, gold and index perps inside Telegram from $2, or copy traders who do; non-custodial wallet, free 7-day practice | 🟢 Live | [copyhype.family](https://copyhype.family/) |
 
 > Building a tokenized-stocks app? Open a PR to add it here.
 
