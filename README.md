@@ -93,6 +93,7 @@ Self-custodial apps to trade tokenized stocks & RWAs from your phone.
 | App | Platform | Coverage | Notable | Status | Link |
 | --- | --- | --- | --- | --- | --- |
 | **Dexly** | iOS / Android | Hyperliquid | Self-custodial app for perps, spot, **tokenized stocks & commodities**, and prediction markets, with copy trading | 🟢 Live | [dexly.trade](https://dexly.trade/) |
+| **Perpex** | iOS / Android / Web | Hyperliquid | Self-custodial app for Hyperliquid perps and **HIP-3 stock, index, commodity and pre-IPO markets**, with wallet analysis and copy trading | 🟢 Live | [perpex.co](https://perpex.co/markets/hip-3) |
 | **Robinhood (EU)** | iOS / Android | Arbitrum | Tokenized US stocks & pre-IPO for EU users | 🟡 Regional | [robinhood.com](https://robinhood.com/) |
 | **Kraken (xStocks)** | iOS / Android / Web | Solana | Trade xStocks tokenized equities | 🟢 Live | [kraken.com](https://www.kraken.com/) |
 | **CopyHype** | Telegram (iOS / Android / Desktop) | Hyperliquid | Trade stock, gold and index perps inside Telegram from $2, or copy traders who do; non-custodial wallet, free 7-day practice | 🟢 Live | [copyhype.family](https://copyhype.family/) |
@@ -108,7 +109,8 @@ On-chain exposure to pre-IPO / private companies.
 
 | Project | Markets | Chain | Status | Link |
 | --- | --- | --- | --- | --- |
-| **Ventuals** | Pre-IPO equity perps (OpenAI, SpaceX, Anthropic…) | Hyperliquid L1 (HIP-3) | 🟢 Live | [ventuals.com](https://ventuals.com/) |
+| **Entropy** | Pre-IPO and private-company perps (OpenAI, Anthropic and others) | Hyperliquid L1 (HIP-3) | 🟢 Live | [entropy.io](https://entropy.io/) |
+| **Ventuals** | Pre-IPO equity perps (sunsetting; all HIP-3 markets delisted as of Nov 2026) | Hyperliquid L1 (HIP-3) | 🔴 Inactive | [ventuals.com](https://ventuals.com/) |
 | **Robinhood (pre-IPO tokens)** | Tokenized pre-IPO exposure | Robinhood Chain | 🟢 Live | [robinhood.com](https://robinhood.com/) |
 | **Republic** | Tokenized private-company notes | Multi-chain | 🟢 Live | [republic.com](https://republic.com/) |
 
@@ -152,6 +154,7 @@ RWA perps and synthetics rely on high-quality equity/commodity price feeds.
 ## 📊 Data, Analytics & Dashboards
 
 - [**DefiLlama — RWA**](https://defillama.com/protocols/RWA) — Canonical TVL/volume tracking for the RWA category.
+- [**Perpex HIP-3 markets**](https://perpex.co/markets/hip-3) — Every live HIP-3 dex on Hyperliquid with its stock, index and commodity markets, 24h volume and open interest.
 - [**rwa.xyz**](https://www.rwa.xyz/) — The reference dashboard for tokenized RWAs (treasuries, credit, stocks).
 - [**Dune — RWA dashboards**](https://dune.com/) — Community dashboards for tokenized-asset flows.
 - [**Artemis**](https://artemis.xyz/) — Cross-chain analytics including RWA sectors.
@@ -163,6 +166,7 @@ RWA perps and synthetics rely on high-quality equity/commodity price feeds.
 ## 📚 Research & Reports
 
 - [**rwa.xyz Research**](https://www.rwa.xyz/) — Market data and category breakdowns.
+- [**Perpex — Anthropic IPO pre-market on Hyperliquid**](https://perpex.co/research/anthropic-ipo-hyperliquid-pre-market) — Wallet-level data on pre-IPO perps before the Anthropic listing, compared with SpaceX.
 - [**Messari — RWA sector**](https://messari.io/) — Research on tokenized assets and issuers.
 - [**Binance Research — Tokenization**](https://research.binance.com/) — Market reports on RWA/tokenized stocks.
 - [**a16z crypto — Tokenization**](https://a16zcrypto.com/) — Long-form on the tokenization thesis.
