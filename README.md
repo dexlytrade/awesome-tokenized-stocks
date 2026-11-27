@@ -97,6 +97,7 @@ Self-custodial apps to trade tokenized stocks & RWAs from your phone.
 | **Kraken (xStocks)** | iOS / Android / Web | Solana | Trade xStocks tokenized equities | 🟢 Live | [kraken.com](https://www.kraken.com/) |
 | **CopyHype** | Telegram (iOS / Android / Desktop) | Hyperliquid | Trade stock, gold and index perps inside Telegram from $2, or copy traders who do; non-custodial wallet, free 7-day practice | 🟢 Live | [copyhype.family](https://copyhype.family/) |
 | **The River** 🆕 | Web (phone / desktop browser) | Base, Robinhood Chain | Compares the same stock's ST0x, Coinbase and Robinhood tokens with the fee included and sends a buy to the lowest price you may use; 325 stocks; market, limit and recurring buys from your own wallet (keys never held); River fee at most 0.10%, shown before signing; free agent API + MCP server | 🟢 Live | [app.theriver.markets](https://app.theriver.markets/) |
+| **Stockmon** 🆕 | Web (phone / desktop browser) | Robinhood Chain | Creature-collector game: each of 116 Genesis NFTs holds a vault of the tokenized stocks it was designed from; holders breed descendants and trade on a noncustodial marketplace (0.85% seller fee). Hunts and breeding use real assets and can lose value | 🟢 Live | [stockmon.app](https://www.stockmon.app/) |
 
 > Building a tokenized-stocks app? Open a PR to add it here.
 
