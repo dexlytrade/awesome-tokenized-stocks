@@ -157,6 +157,7 @@ RWA perps and synthetics rely on high-quality equity/commodity price feeds.
 - [**Artemis**](https://artemis.xyz/) — Cross-chain analytics including RWA sectors.
 - [**Tokenized**](https://tokenized.so/) — Research directory comparing tokenized stocks, stablecoins and commodities by underlying asset, issuer, backing model and network, with links to issuer sources.
 - [**RWA Space**](https://rwaspace.app/) — Research terminal and catalog connecting underlying assets, tokenized issuances, observed markets, source documents, and pricing methodology.
+- [**AlphaYou — Hyperliquid markets**](https://alphayou.net/hyperliquid) — Free research pages for Hyperliquid stock, oil, gold, index and currency perps: 24/7 prices, which US stocks tracked traders hold, and a $5M+ whale feed. Research only. Disclosure: added by the AlphaYou team.
 
 ---
 
